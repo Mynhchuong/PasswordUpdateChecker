@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWUpdateChecker", "PWUpdateChecker\PWUpdateChecker.csproj", "{8E98D5EF-4350-4E66-945B-DA7374DEF105}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E98D5EF-4350-4E66-945B-DA7374DEF105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E98D5EF-4350-4E66-945B-DA7374DEF105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E98D5EF-4350-4E66-945B-DA7374DEF105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E98D5EF-4350-4E66-945B-DA7374DEF105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {577CE78F-8070-4C72-B4BA-7A2263AA7D08}
+	EndGlobalSection
+EndGlobal

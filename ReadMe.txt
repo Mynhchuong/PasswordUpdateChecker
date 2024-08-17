@@ -1,0 +1,1 @@
+Go to "appsettings.json" to update the connection string.

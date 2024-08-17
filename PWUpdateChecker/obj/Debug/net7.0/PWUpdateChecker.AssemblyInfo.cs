@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PWUpdateChecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0167773e9f94eec580dbba00d761082be8db3de")]
 [assembly: System.Reflection.AssemblyProductAttribute("PWUpdateChecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PWUpdateChecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
